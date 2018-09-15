@@ -17,3 +17,6 @@
 [Udemy] www.udemy.com
 
 [KhanAcademy] www.khanacademy.org/
+
+## Helping Websites
+[Debugging] http://pythontutor.com/visualize.html
