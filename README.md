@@ -20,3 +20,16 @@
 
 ## Helping Websites
 * [Debugging] http://pythontutor.com/visualize.html
+
+# Ideas
+
+## Command-line Spotify player with _spotipy_
+* It will be able to search for songs, play any song/playlist/radio/podcast/etc., edit song playlists/favorites, play the song directly that is first on the search results, and many more stuff that you can easily do with spotify app
+
+## Evolution Simulation(Evo-Sim)
+* Creatures will evolve according to their DNA
+* New gens that does new things will be able to easily added later.
+* They will start as little round livings and they will change shape and features according to their gen(like growing in one direction, being able to send signals/harming rays/, having an ability to compute more, and many many more things)
+* There will be config file that give the ability to change and tweak settings
+* Different places of DNA will affect different places of livings
+* There will be graphical represation of evolution(probably with pyglet)
