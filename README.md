@@ -23,7 +23,7 @@
 
 # Ideas
 
-## Command-line Spotify player with _spotipy_
+## Command-line Spotify player with
 * It will be able to search for songs, play any song/playlist/radio/podcast/etc., edit song playlists/favorites, play the song directly that is first on the search results, and many more stuff that you can easily do with spotify app
 
 ## Evolution Simulation(Evo-Sim)
