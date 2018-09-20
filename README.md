@@ -18,12 +18,13 @@
 
 * [KhanAcademy] www.khanacademy.org/
 
+* [Coursera] www.coursera.org
 ## Helping Websites
 * [Debugging] http://pythontutor.com/visualize.html
 
 # Ideas
 
-## Command-line Spotify player with
+## Command-line Spotify player
 * It will be able to search for songs, play any song/playlist/radio/podcast/etc., edit song playlists/favorites, play the song directly that is first on the search results, and many more stuff that you can easily do with spotify app
 
 ## Evolution Simulation(Evo-Sim)
